@@ -48,10 +48,10 @@ a { text-decoration: none; color: inherit; }
 .category-tile::before { content: ''; position: absolute; inset: 0; z-index: -2; background-size: cover; background-position: center; transition: transform .35s; }
 .category-tile:hover::before { transform: scale(1.04); }
 .category-tile::after { content: ''; position: absolute; inset: 0; z-index: -1; background: linear-gradient(180deg, rgba(0,0,0,.05), transparent 45%, rgba(0,0,0,.42)); }
-.tile-lighting::before { background-image: linear-gradient(135deg, #8f8d75, #d4c2a7 60%, #6f735a); }
-.tile-organizers::before { background-image: linear-gradient(135deg, #ba9069, #ead9bd 60%, #947757); }
-.tile-stationery::before { background-image: linear-gradient(135deg, #9aab94, #e4e0cf 60%, #bdaf90); }
-.tile-accessories::before { background-image: linear-gradient(135deg, #c6a9a0, #e9d4bf 60%, #aa8068); }
+.tile-lighting::before { background-image: var(--category-image, linear-gradient(135deg, #8f8d75, #d4c2a7 60%, #6f735a)); }
+.tile-organizers::before { background-image: var(--category-image, linear-gradient(135deg, #ba9069, #ead9bd 60%, #947757)); }
+.tile-stationery::before { background-image: var(--category-image, linear-gradient(135deg, #9aab94, #e4e0cf 60%, #bdaf90)); }
+.tile-accessories::before { background-image: var(--category-image, linear-gradient(135deg, #c6a9a0, #e9d4bf 60%, #aa8068)); }
 .tile-number { font-size: 10px; letter-spacing: .15em; color: #fff; }
 .tile-bottom { display: flex; align-items: end; justify-content: space-between; color: #fff; }
 .tile-bottom span { font-size: 11px; }

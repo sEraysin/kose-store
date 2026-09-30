@@ -13,6 +13,7 @@ Her klasörün `README.md` dosyası o alanın amacını açıklar.
 | [`src/components/`](src/components/README.md) | Mağazada ortak kullanılan arayüz parçaları |
 | [`src/lib/`](src/lib/README.md) | Para biçimlendirme ve sepet gibi işlevler |
 | [`docs/`](docs/README.md) | UX araştırması, arayüz sözleşmesi ve kararlar |
+| [`public/`](public/README.md) | Tarayıcıya doğrudan sunulan dosyalar |
 | [`public/images/`](public/images/README.md) | Özgün mağaza görselleri |
 
 ## Çalıştırma

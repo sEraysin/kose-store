@@ -13,7 +13,7 @@ export function ProductCard({ product, onAdd }: Props) {
         <button type="button" className="quick-add" onClick={() => onAdd(product.id)} aria-label={`${product.name} sepete ekle`}><Plus size={19} /></button>
       </div>
       <div className="product-card-copy">
-        <div><span className="product-card-category">{product.detail}</span><a href={`#/urun/${product.id}`}><h3>{product.name} <ArrowUpRight size={15} /></h3></a><p>{product.shortDescription}</p></div>
+        <div><span className="product-card-category">{product.material}</span><a href={`#/urun/${product.id}`}><h3>{product.name} <ArrowUpRight size={15} /></h3></a><p>{product.shortDescription}</p></div>
         <strong>{formatPrice(product.price)}</strong>
       </div>
     </article>

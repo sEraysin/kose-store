@@ -1,7 +1,10 @@
 import type { Category, CategoryId, Product } from './types'
+import { category as lighting } from './lighting'
+import { category as organizers } from './organizers'
+import { category as stationery } from './stationery'
+import { category as accessories } from './accessories'
 
-// Kategori ajanlarının modülleri incelendikten sonra bu listeye eklenir.
-export const categories: Category[] = []
+export const categories: Category[] = [lighting, organizers, stationery, accessories]
 
 export function getCategory(id: CategoryId): Category | undefined {
   return categories.find((category) => category.id === id)
