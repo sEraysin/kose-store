@@ -1,0 +1,121 @@
+[
+  {
+    "id": "organizers-walnut-stacking-trays",
+    "categoryId": "organizers",
+    "name": "Ceviz Üçlü Evrak Tepsisi",
+    "shortDescription": "Üst üste dizilebilen üç sığ tepsi, günlük kâğıtları yatay olarak toplar.",
+    "description": "Üç ayrı tepsiden oluşan bu set, mektupları, not kâğıtlarını ve ince defterleri yatay biçimde bir arada tutar. Tepsiler üst üste kullanılabilir veya masanın farklı noktalarına yan yana yerleştirilebilir.",
+    "priceKurus": 139000,
+    "image": "/images/organizers/walnut-stacking-trays.png",
+    "gallery": [
+      "/images/organizers/walnut-stacking-trays.png"
+    ],
+    "color": "Ceviz",
+    "material": "Ceviz kaplamalı ahşap",
+    "dimensions": "Her tepsi 28 × 21 × 5 cm · set toplam yüksekliği 15 cm",
+    "detail": "Üç ayrı açık tepsi · üst üste veya yan yana kullanım · kâğıt ürünler dahil değildir",
+    "stockQuantity": 24
+  },
+  {
+    "id": "organizers-sage-headphone-stand",
+    "categoryId": "organizers",
+    "name": "Adaçayı Masaüstü Kulaklık Standı",
+    "shortDescription": "Kavisli metal taşıyıcı ve geniş taban, kulaklık için masada ayrı bir yer ayırır.",
+    "description": "Mat adaçayı boyalı çelikten üretilen standın kavisli üst bölümü kulaklık bandını taşır; düz tabanı masada küçük eşyalar için ek yüzey bırakır. Açık formu kullanılmadığında da kolayca yer değiştirir.",
+    "priceKurus": 99000,
+    "image": "/images/organizers/sage-headphone-stand.png",
+    "gallery": [
+      "/images/organizers/sage-headphone-stand.png"
+    ],
+    "color": "Adaçayı",
+    "material": "Toz boyalı çelik",
+    "dimensions": "Yükseklik 24 cm · taban 14 × 12 cm · üst kıvrım genişliği 5 cm",
+    "detail": "Kavisli metal taşıyıcı ve düz taban · kulaklık dahil değildir",
+    "stockQuantity": 26
+  },
+  {
+    "id": "organizers-terracotta-cable-box",
+    "categoryId": "organizers",
+    "name": "Kiremit Kapaklı Kablo Kutusu",
+    "shortDescription": "Ayrı kapağı ve yan açıklıkları, masa üzerindeki kabloları tek noktada toplar.",
+    "description": "Alçak dikdörtgen kutu, masa üzerindeki kablo fazlasını göz önünden toparlamak için tasarlanmıştır. Kapağı kaldırılabilir; iki kısa kenardaki açıklıklar kabloların kutuya girip çıkmasına yer bırakır.",
+    "priceKurus": 89000,
+    "image": "/images/organizers/terracotta-cable-box.png",
+    "gallery": [
+      "/images/organizers/terracotta-cable-box.png"
+    ],
+    "color": "Kiremit",
+    "material": "Boyalı MDF",
+    "dimensions": "32 × 14 × 12 cm · iki yanda 3 × 2 cm kablo açıklığı",
+    "detail": "Kaldırılabilir kapak · iki yanda kablo geçiş açıklığı · masaüstü kullanım",
+    "stockQuantity": 22
+  },
+  {
+    "id": "organizers-walnut-bookend-pair",
+    "categoryId": "organizers",
+    "name": "Ceviz Çift Kitap Dayanağı",
+    "shortDescription": "İki ahşap dayanak, ince defterleri veya kitapları masanın bir köşesinde dik tutar.",
+    "description": "Düz tabanlı iki L biçimli dayanak, masa üzerinde kitap ve defterleri yan yana toplamaya yardımcı olur. Ceviz kaplamalı yüzey ve sade dik paneller, raf bulunmayan küçük çalışma köşelerine uygundur.",
+    "priceKurus": 119000,
+    "image": "/images/organizers/walnut-bookend-pair.png",
+    "gallery": [
+      "/images/organizers/walnut-bookend-pair.png"
+    ],
+    "color": "Ceviz",
+    "material": "Ceviz kaplamalı ahşap",
+    "dimensions": "Her parça 15 × 12 × 16 cm · set 2 parçadan oluşur",
+    "detail": "Eşleşen iki L biçimli dayanak · görseldeki kitaplar dahil değildir",
+    "stockQuantity": 21
+  },
+  {
+    "id": "organizers-sage-two-tier-letter-rack",
+    "categoryId": "organizers",
+    "name": "Adaçayı İki Katlı Mektup Rafı",
+    "shortDescription": "İki yatay metal sepet, mektup ve not kâğıtlarını ayrı katlarda tutar.",
+    "description": "İki sığ yatay sepetten oluşan açık raf, gün içinde el altında tutulacak mektup ve kâğıtları ayırır. İnce yan ayakları sayesinde dikey dosya bölmelerinden farklı olarak masa üstünde katmanlı bir düzen kurar.",
+    "priceKurus": 119000,
+    "image": "/images/organizers/sage-two-tier-letter-rack.png",
+    "gallery": [
+      "/images/organizers/sage-two-tier-letter-rack.png"
+    ],
+    "color": "Adaçayı",
+    "material": "Toz boyalı çelik",
+    "dimensions": "28 × 15 × 25 cm · iki sepetin her biri 26 × 14 cm",
+    "detail": "İki açık yatay sepet · mektup ve kâğıtlar dahil değildir",
+    "stockQuantity": 20
+  },
+  {
+    "id": "organizers-terracotta-compartment-tray",
+    "categoryId": "organizers",
+    "name": "Kiremit Dört Bölmeli Masa Tepsisi",
+    "shortDescription": "Ayrılabilir bölmeleri, ataş ve not kartı gibi küçük parçaları gruplar.",
+    "description": "Alçak tepsinin içindeki üç ayırıcı çıkarılıp yeniden yerleştirilebilir; böylece masa üstündeki küçük kırtasiye parçaları için dört gözlü bir düzen elde edilir. Açık yüzeyi içindekileri kolayca görmeyi sağlar.",
+    "priceKurus": 99000,
+    "image": "/images/organizers/terracotta-compartment-tray.png",
+    "gallery": [
+      "/images/organizers/terracotta-compartment-tray.png"
+    ],
+    "color": "Kiremit",
+    "material": "Boyalı MDF",
+    "dimensions": "24 × 18 × 5 cm · dört bölme",
+    "detail": "Üç çıkarılabilir ayırıcı · içindeki küçük eşyalar dahil değildir",
+    "stockQuantity": 23
+  },
+  {
+    "id": "organizers-walnut-phone-note-dock",
+    "categoryId": "organizers",
+    "name": "Ceviz Telefon ve Not Standı",
+    "shortDescription": "Telefon yuvası, ön not oluğu ve yan kalem cebi küçük masa eşyalarını toplar.",
+    "description": "Ceviz kaplamalı ahşap standın arka yuvası telefonu dik tutar; öndeki dar oluk not kartı için, yandaki cep ise tek bir kalem için ayrılmıştır. Kompakt tabanı masanın köşesine sığar.",
+    "priceKurus": 109000,
+    "image": "/images/organizers/walnut-phone-note-dock.png",
+    "gallery": [
+      "/images/organizers/walnut-phone-note-dock.png"
+    ],
+    "color": "Ceviz",
+    "material": "Ceviz kaplamalı ahşap",
+    "dimensions": "18 × 12 × 13 cm · telefon yuvası 1.5 cm genişliğinde",
+    "detail": "Telefon yuvası, not oluğu ve yan kalem cebi · telefon, not kartı ve kalem dahil değildir",
+    "stockQuantity": 19
+  }
+]
