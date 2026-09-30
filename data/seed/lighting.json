@@ -1,0 +1,121 @@
+[
+  {
+    "id": "lighting-tala-ceramic",
+    "categoryId": "lighting",
+    "name": "Tala Seramik Gövdeli Masa Lambası",
+    "shortDescription": "Yuvarlak seramik gövde, ceviz halkası ve açık renk kumaş başlıkla masaya yumuşak bir ışık verir.",
+    "description": "Tala, yuvarlak sırlı seramik gövdesini ceviz renkli bir halkayla ve açık renk kumaş başlıkla bir araya getirir. Geniş başlığı ışığı masa yüzeyine yöneltir; dengeli formu komodin veya çalışma masasında kullanılabilir.",
+    "priceKurus": 279000,
+    "image": "/images/lighting/tala-ceramic.png",
+    "gallery": [
+      "/images/lighting/tala-ceramic.png"
+    ],
+    "color": "Kırık beyaz / ceviz",
+    "material": "Sırlı seramik ve ceviz",
+    "dimensions": "Yükseklik 39 cm · başlık çapı 28 cm · taban çapı 16 cm",
+    "detail": "Açık renk kumaş başlık · E27 duy · ampul dahil değildir · kablo üzerinde anahtar",
+    "stockQuantity": 18
+  },
+  {
+    "id": "lighting-arin-opal-column",
+    "categoryId": "lighting",
+    "name": "Arin Opal Silindir Masa Lambası",
+    "shortDescription": "Uzun opal cam silindir ve ceviz taban, dar alanlarda sade bir ışık noktası oluşturur.",
+    "description": "Arin'in dikey opal cam silindiri ışığı çevresine yumuşakça yayar. Alçak ceviz tabanı ve ince seramik bileziğiyle monitör yanı ya da küçük bir sehpa üzerinde fazla yer kaplamayan bir form sunar.",
+    "priceKurus": 249000,
+    "image": "/images/lighting/arin-opal-column.png",
+    "gallery": [
+      "/images/lighting/arin-opal-column.png"
+    ],
+    "color": "Kırık beyaz / ceviz",
+    "material": "Seramik, opal cam ve ceviz",
+    "dimensions": "Yükseklik 32 cm · cam çapı 11 cm · taban çapı 15 cm",
+    "detail": "Opal cam silindir gövde · E14 duy · ampul dahil değildir · kablo üzerinde anahtar",
+    "stockQuantity": 20
+  },
+  {
+    "id": "lighting-yelken-arc-arm",
+    "categoryId": "lighting",
+    "name": "Yelken Yay Kollu Masa Lambası",
+    "shortDescription": "Tek kıvrımlı kolu ve aşağı bakan küçük başlığı ışığı defter ya da klavyeye taşır.",
+    "description": "Yelken'in adaçayı tonundaki çelik kolu tabandan tek bir yay çizerek yükselir. Başlığı çalışma yüzeyine çevrilebilir; yuvarlak tabanı ve ince silueti masada ayrı bir yerleşim seçeneği sunar.",
+    "priceKurus": 319000,
+    "image": "/images/lighting/yelken-arc-arm.png",
+    "gallery": [
+      "/images/lighting/yelken-arc-arm.png"
+    ],
+    "color": "Adaçayı yeşili",
+    "material": "Toz boyalı çelik ve pirinç",
+    "dimensions": "Yükseklik 46 cm · yatay erişim 31 cm · taban çapı 16 cm",
+    "detail": "Tek kıvrımlı çelik kol · E14 duy · ampul dahil değildir · kablo üzerinde anahtar",
+    "stockQuantity": 16
+  },
+  {
+    "id": "lighting-duru-tripod",
+    "categoryId": "lighting",
+    "name": "Duru Üç Ayaklı Masa Lambası",
+    "shortDescription": "Küçük seramik başlık ve ceviz ayaklar, komodin veya çalışma köşesine hafif bir siluet katar.",
+    "description": "Duru'nun üç kısa ceviz ayağı, açık renkli seramik başlığı taşır. Kompakt gövdesi masanın arka köşesinde ya da komodinde kullanılabilir; başlık ışığı aşağı ve çevresine yönlendirir.",
+    "priceKurus": 269000,
+    "image": "/images/lighting/duru-tripod-lamp.png",
+    "gallery": [
+      "/images/lighting/duru-tripod-lamp.png"
+    ],
+    "color": "Kırık beyaz / ceviz",
+    "material": "Sırlı seramik ve ceviz",
+    "dimensions": "Yükseklik 34 cm · başlık çapı 19 cm · ayak açıklığı 18 cm",
+    "detail": "Seramik çan biçimli başlık · E14 duy · ampul dahil değildir · kablo üzerinde anahtar",
+    "stockQuantity": 19
+  },
+  {
+    "id": "lighting-pera-clamp",
+    "categoryId": "lighting",
+    "name": "Pera Kıskaçlı Çalışma Lambası",
+    "shortDescription": "Masa kenarına tutunan kıskaç taban, çalışma yüzeyinde tabana ayrılan alanı azaltır.",
+    "description": "Pera, vida mekanizmalı kıskaç tabanı ve iki mafsallı koluyla ışığı çalışma alanına yaklaştırır. Adaçayı boyalı çelik gövdesi masa kenarına bağlanır; başlık not alırken veya klavyede çalışırken farklı yönlere çevrilebilir.",
+    "priceKurus": 349000,
+    "image": "/images/lighting/pera-clamp-task-lamp.png",
+    "gallery": [
+      "/images/lighting/pera-clamp-task-lamp.png"
+    ],
+    "color": "Adaçayı yeşili",
+    "material": "Toz boyalı çelik ve pirinç",
+    "dimensions": "Kol erişimi 43 cm · başlık çapı 13 cm · kıskaç açıklığı 4 cm",
+    "detail": "İki mafsallı kol · vida mekanizmalı masa kıskaç tabanı · E14 duy · ampul dahil değildir",
+    "stockQuantity": 14
+  },
+  {
+    "id": "lighting-azra-mushroom",
+    "categoryId": "lighting",
+    "name": "Azra Seramik Mantar Masa Lambası",
+    "shortDescription": "Tek parça hissi veren yuvarlak seramik form, masada alçak ve sakin bir ışık noktası oluşturur.",
+    "description": "Azra'nın kısa gövdesi ve geniş, sığ başlığı mantar biçimli bir siluet oluşturur. Kırık beyaz sır yüzeyi ve tabanındaki ceviz renkli halka, kitaplık veya masa üstündeki diğer ahşap tonlarıyla uyum sağlar.",
+    "priceKurus": 289000,
+    "image": "/images/lighting/azra-mushroom-ceramic.png",
+    "gallery": [
+      "/images/lighting/azra-mushroom-ceramic.png"
+    ],
+    "color": "Kırık beyaz / ceviz",
+    "material": "Sırlı seramik ve ceviz",
+    "dimensions": "Yükseklik 27 cm · başlık çapı 25 cm · taban çapı 17 cm",
+    "detail": "Geniş sığ seramik başlık · E14 duy · ampul dahil değildir · kablo üzerinde anahtar",
+    "stockQuantity": 17
+  },
+  {
+    "id": "lighting-ekin-opal-bowl",
+    "categoryId": "lighting",
+    "name": "Ekin Opal Kâse Başlıklı Masa Lambası",
+    "shortDescription": "Sığ opal cam başlık, kiremit seramik gövde ve ceviz ayakla küre lambalardan ayrılır.",
+    "description": "Ekin'de geniş ve sığ opal cam başlık, yivli kiremit seramik gövdenin üzerinde durur. Ceviz ayakla tamamlanan alçak formu, monitör yanı veya yan sehpa için dekoratif bir seçenek sunar.",
+    "priceKurus": 299000,
+    "image": "/images/lighting/ekin-opal-bowl-lamp.png",
+    "gallery": [
+      "/images/lighting/ekin-opal-bowl-lamp.png"
+    ],
+    "color": "Kiremit / opal beyaz",
+    "material": "Seramik, opal cam ve ceviz",
+    "dimensions": "Yükseklik 30 cm · başlık çapı 24 cm · taban çapı 15 cm",
+    "detail": "Sığ opal cam başlık · E14 duy · ampul dahil değildir · kablo üzerinde anahtar",
+    "stockQuantity": 15
+  }
+]
