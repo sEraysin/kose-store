@@ -6,10 +6,10 @@ import { category as accessories } from './accessories'
 
 export const categories: Category[] = [lighting, organizers, stationery, accessories]
 
-export function getCategory(id: CategoryId): Category | undefined {
-  return categories.find((category) => category.id === id)
+export function getCategory(id: CategoryId, catalog: Category[] = categories): Category | undefined {
+  return catalog.find((category) => category.id === id)
 }
 
-export function getProduct(id: string): Product | undefined {
-  return categories.flatMap((category) => category.products).find((product) => product.id === id)
+export function getProduct(id: string, catalog: Category[] = categories): Product | undefined {
+  return catalog.flatMap((category) => category.products).find((product) => product.id === id)
 }

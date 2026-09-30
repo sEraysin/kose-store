@@ -14,6 +14,7 @@ export type Product = {
   dimensions: string
   detail: string
   badge?: string
+  stockQuantity?: number
 }
 
 export type FilterFacet = {

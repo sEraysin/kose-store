@@ -8,6 +8,7 @@ export type Route =
   | { type: 'cart' }
   | { type: 'checkout' }
   | { type: 'confirmation' }
+  | { type: 'admin' }
 
 const categoryIds: CategoryId[] = ['lighting', 'organizers', 'stationery', 'accessories']
 
@@ -17,6 +18,7 @@ export function parseRoute(hash: string): Route {
   if (path === 'sepet') return { type: 'cart' }
   if (path === 'odeme') return { type: 'checkout' }
   if (path === 'tesekkurler') return { type: 'confirmation' }
+  if (path === 'yonetim') return { type: 'admin' }
   if (path.startsWith('kategori/')) {
     const id = path.slice('kategori/'.length)
     if (categoryIds.includes(id as CategoryId)) return { type: 'category', id: id as CategoryId }
